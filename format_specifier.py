@@ -1,3 +1,4 @@
+#Python format specifiers -> You output will be decorated.
 
 price1 = 3000.14159
 price2 = -9870.65
