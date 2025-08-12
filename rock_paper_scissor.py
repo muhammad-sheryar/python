@@ -26,7 +26,7 @@ while running:
     else:
         print("You Lose!")
         
-    play_Again =input("Play Again? (y/n): ").lower()
+    play_Again = input("Play Again? (y/n): ").lower()
     if not play_Again == "y":
         break
     
