@@ -7,8 +7,8 @@ def favourite_food(food):
 
 def main():
     print("This is Script1.")
-    # favourite_food("Pizza")
-    # print("Good Bye!")
+    favourite_food("Pizza")
+    print("Good Bye!")
 
 if __name__ == '__main__':
       main()
