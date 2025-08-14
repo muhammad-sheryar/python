@@ -6,7 +6,7 @@ def favourite_drink(drink):
     
 def main():    
     print("This is Script2.")
-    favourite_food("Sushi")
+    # favourite_food("Sushi")
     favourite_drink("Coffee")
     print("Good Bye!")
 
